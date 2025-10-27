@@ -68,7 +68,7 @@ All procedures follow institutional ethical guidelines for human–robot interac
 
 ---
 
-## Course (CS-5761) Intructor 
+## Course (CS-5761) Instructor 
 - Dr. Michael Walker
 - Assistant Professor, Computer Science
 - Michigan Tech University. 
