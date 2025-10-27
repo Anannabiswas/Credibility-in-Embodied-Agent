@@ -77,8 +77,8 @@ All procedures follow institutional ethical guidelines for human–robot interac
 ---
 
 ## Team 
-- [Ananna Biswas](https://anannabiswas.github.io/), PhD Student in Computational Science & Engineering, MTU
 - [Rosario Curcuru](https://github.com/rosariocurcuru), MSc Student in Computer Science, MTU
+- [Ananna Biswas](https://anannabiswas.github.io/), PhD Student in Computational Science & Engineering, MTU
 - [Asma Karim](https://github.com/AsmaAbidKarim), MSc Student in Computer Science, MTU
 - [Sammi Trost](https://github.com/srtrost), MSc Student in Computer Science, MTU
 
