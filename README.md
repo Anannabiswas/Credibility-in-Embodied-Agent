@@ -50,6 +50,7 @@ We hypothesize that:
 ---
 
 ## Repository Structure
+```
 Credibility-in-Embodied-Agent/
 │
 ├── data/ # Experimental data (anonymized)
@@ -59,7 +60,7 @@ Credibility-in-Embodied-Agent/
 ├── results/ # Figures, tables, and summarized findings
 └── README.md # Project overview
 
-
+```
 ---
 
 ## Ethical Considerations
@@ -68,20 +69,18 @@ All procedures follow institutional ethical guidelines for human–robot interac
 ---
 
 ## Course (CS-5761) Intructor 
-Dr. Michael Walker
-Assistant Professor, Computer Science
-Michigan Tech University. 
-[Google Scholar](https://scholar.google.com/citations?user=tM9tcT0AAAAJ&hl=en&oi=sra)
-
-
+- Dr. Michael Walker
+- Assistant Professor, Computer Science
+- Michigan Tech University. 
+- [Google Scholar](https://scholar.google.com/citations?user=tM9tcT0AAAAJ&hl=en&oi=sra)
 
 ---
 
 ## Team 
-[Ananna Biswas](https://anannabiswas.github.io/), PhD Student in Computational Science & Engineering, MTU
-[Rosario Curcuru](rosario github link), MSc Student in Computer Science, MTU
-[Asma Karim](https://github.com/AsmaAbidKarim), MSc Student in Computer Science, MTU
-[Sammi Trost](https://github.com/srtrost), MSc Student in Computer Science, MTU
+- [Ananna Biswas](https://anannabiswas.github.io/), PhD Student in Computational Science & Engineering, MTU
+- [Rosario Curcuru](rosario github link), MSc Student in Computer Science, MTU
+- [Asma Karim](https://github.com/AsmaAbidKarim), MSc Student in Computer Science, MTU
+- [Sammi Trost](https://github.com/srtrost), MSc Student in Computer Science, MTU
 
 
 
