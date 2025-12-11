@@ -34,12 +34,25 @@ We hypothesize that:
 - These findings will reveal critical insights into how **embodiment and social context jointly shape trust formation** in AI-human interactions.
 
 ---
+## Results
 
-## Expected Outcomes
-- Identification of conditions that foster **appropriate vs. excessive trust** in AI systems.  
-- Insights into **context-specific trust** across domains such as **education, healthcare, and industry**.  
-- Design guidelines for **trustworthy, transparent embodied AI** systems.
+Our study examined whether the physical embodiment of an AI agent influences how users perceive the credibility of LLM-generated responses. Although the embodied robot (Boston Dynamics Spot) received higher average ratings across all measured constructs—Credibility, Affability, and Social Competence—these differences were not statistically significant, largely due to the small sample size (N = 12).
 
+Key Findings
+
+Directional Increase for the Robot:
+Participants interacting with Spot consistently rated the robot higher across all measures, showing a clear upward trend in perceived credibility and social qualities, even though statistical significance was not reached.
+
+Embodiment and Misinformation Susceptibility:
+In the objective accuracy task, participants in the robot condition were more likely to accept hallucinated LLM responses as correct.
+3 participants in the Spot condition believed all 10 answers were correct. Only 1 participant in the speaker condition did so. Given that half of the responses were intentionally incorrect, this suggests that embodiment may increase vulnerability to AI-delivered misinformation.
+
+Reliability of Measures:
+Cronbach’s alpha showed strong internal consistency for Credibility and Affability, supporting the validity of these constructs in our study.
+
+Overall Interpretation
+
+While the small sample size limited statistical power, the consistent directional patterns highlight meaningful psychological effects of embodiment. These findings suggest that physically present AI systems may not only appear more credible but may also amplify user trust even when the information is inaccurate. Further research with larger, more diverse samples is needed to refine these insights and investigate how embodied behaviors shape trust in AI.
 ---
 
 ## Tools and Setup
