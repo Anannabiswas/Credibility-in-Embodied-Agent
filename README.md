@@ -44,8 +44,7 @@ Our study examined whether physical embodiment influences how users perceive the
   Spot showed consistently higher mean ratings across all subjective measures, though not significant.
 
 - **Greater acceptance of hallucinated content:**  
-  Participants in the robot condition were more likely to believe all responses were correct.  
-  - **3 participants** in the Spot condition vs. **1 participant** in the speaker condition believed all 10 answers were accurate, even though half were intentionally incorrect.
+  Participants in the robot condition were more likely to believe all responses were correct. **3 participants** in the Spot condition vs. **1 participant** in the speaker condition believed all 10 answers were accurate, even though half   were intentionally incorrect.
 
 - **Measure reliability:**  
   Credibility and Affability demonstrated strong internal consistency. Social Competence showed lower reliability and may require refined items.
